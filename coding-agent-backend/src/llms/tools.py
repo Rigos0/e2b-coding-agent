@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-from e2b_desktop import Sandbox
 from typing import Optional, Callable, Dict, Any
 from datetime import datetime
 
