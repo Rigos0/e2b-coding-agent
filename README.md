@@ -1,6 +1,7 @@
 # Coding Agent
 
-![Image Placeholder](https://via.placeholder.com/800x400.png?text=Coding+Agent+In+Action)
+![image](https://github.com/user-attachments/assets/e1d30f2e-028c-4fe9-8770-fc777976fd95)
+
 
 This repository contains a coding agent that can clone a GitHub repository, plan and execute tasks, and interact with the user through a web interface. The agent is built with the E2B Python SDK and the frontend is a Next.js application.
 
